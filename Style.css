@@ -2,6 +2,8 @@
 body {
   background-image: url("images/world-map-old-wallpaper-inspirationa-old-world-map-steampunk-pinterest-globe-apothecaries-for-wallpaper-of-world-map-old-wallpaper.png");
   background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   background-position: center center;
   height: 40em;
   color: #3F5777;
