@@ -1,11 +1,11 @@
 /* Colors and fonts */
+
 body {
-  background-image: url("images/world-map-old-wallpaper-inspirationa-old-world-map-steampunk-pinterest-globe-apothecaries-for-wallpaper-of-world-map-old-wallpaper.png");
+  background-image: url("images/brenan-greene-229562-unsplash.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center center;
-  height: 40em;
   color: #3F5777;
   font-size: 18px;
   font-family: cursive;
@@ -28,14 +28,14 @@ h2 {
 }
 
 a {
-  text-decoration: none;
-  color: white;
+  text-decoration: underline;
+  color: #3F5777;
   font-weight: bold;
   transition: color 0.5s ease;
 }
 
 a:hover {
-  color: #3F5777;
+  color: #8E4A49;
   font-weight: bolder;
 }
 
@@ -81,7 +81,7 @@ a:hover {
    padding: 4px;
 }
 .list-inline i:hover {
-  color: white;
+  color: #8E4A49;
   transition: color 0.5s ease;
 }
 
